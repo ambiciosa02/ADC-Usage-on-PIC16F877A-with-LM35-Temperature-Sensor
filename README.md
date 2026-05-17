@@ -51,10 +51,17 @@ This practical work aims to study the use of the **Analog-to-Digital Converter (
 <br>
 <img width="379" height="293" alt="image" src="https://github.com/user-attachments/assets/8b5705b5-0bf8-4a01-bfa4-6d357e50263b" />
 <br>
-
-**Part E – Bonus (7-Segment Display):** Convert ADC value to temperature and display on two 7-segment digits. Formula: T(°C) = (ADC × 500) / 1023. 
 <br>
 <img width="378" height="209" alt="image" src="https://github.com/user-attachments/assets/abaf8615-e55a-4ce5-aca0-fba9c804db31" />
+<br>
+**Part E – Bonus (7-Segment Display):** Convert ADC value to temperature and display on two 7-segment digits. Formula: T(°C) = (ADC × 500) / 1023. 
+<br>
+
+<img width="377" height="258" alt="image" src="https://github.com/user-attachments/assets/2cf04e28-82d1-442a-82d5-5910c6b00690" />
+
+<br>
+<img width="379" height="205" alt="image" src="https://github.com/user-attachments/assets/9cec43cc-221f-40b9-9076-3b30e1bcbe40" />
+
 <br>
 
 ## 🧰 5. Components Used
